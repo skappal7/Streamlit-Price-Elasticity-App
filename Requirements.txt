@@ -3,3 +3,4 @@ Pandas
 Seaborn
 Matplotlib
 Scipy
+scikit-learn
